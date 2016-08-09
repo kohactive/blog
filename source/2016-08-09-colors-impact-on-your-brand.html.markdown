@@ -1,7 +1,7 @@
 ---
 title: Color’s Impact on Your Brand
 subtitle: The first element of design.
-date: 2016-08-08 15:52 +0000
+date: 2016-08-09 15:52 +0000
 tags: Design, Branding, Marketing
 category: Design
 author_name: Kristi Klemm
