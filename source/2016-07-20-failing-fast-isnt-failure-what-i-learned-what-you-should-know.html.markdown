@@ -10,6 +10,7 @@ author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec
 image: https://images.unsplash.com/photo-1428223501723-d821c5d00ca3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e5bd1e83a3aa65c5853fd3a7951d0816
 banner: true
 featured: true
+primary: true
 ---
 
 No one launches a startup thinking about how they’re going to exit--at least not if they’re building for the right reasons and not just because they think building a startup is a quick and easy payday. Because it’s not. But if you’re launching a new company of any kind without acknowledging, at least to yourself, that “failure” is a possibility, then you might need a reality check.
