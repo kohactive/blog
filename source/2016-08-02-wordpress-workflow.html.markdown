@@ -1,12 +1,10 @@
 ---
-title: WordPress Workflow
+title: Our WordPress Development Workflow
 subtitle: How we wrangle WordPress @kohactive.
 date: 2016-08-02 14:59 +0000
 tags: wordpress, workflow
 category: Development
-author_name: Andy Richardson
-author_twitter: and1mal
-author_avatar: https://pbs.twimg.com/profile_images/477669561471234048/uZ5JrqMz.jpeg
+author_id: andimal
 image: https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c7ff0f302e75afc265cf22e4ff7902bb
 banner: true
 featured: true
