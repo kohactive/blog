@@ -1,3 +1,17 @@
+---
+title: WordPress Workflow
+subtitle: How we wrangle WordPress @kohactive.
+date: 2016-08-02 14:59 +0000
+tags: wordpress, workflow
+category: Development
+author_name: Andy Richardson
+author_twitter: and1mal
+author_avatar: https://pbs.twimg.com/profile_images/477669561471234048/uZ5JrqMz.jpeg
+image: https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c7ff0f302e75afc265cf22e4ff7902bb
+banner: true
+featured: true
+---
+
 WordPress is a big part of our front-end development flow here at kohactive, but its base tooling doesn't suit us super well. With the help of some solid open source tools, we've been able to mold a modern workflow in-sync with other technologies we use.
 
 ##Startup
