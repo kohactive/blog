@@ -36,4 +36,6 @@ Here are some do’s and don’ts of of growing your following that are simple, 
 
 **Do:** I like to call this the weight loss tip. People spend so much time and money trying to find a shortcut or a work-around, that had they invested a little time each day just sharing, engaging, and interacting, they would have been more successful. Set aside 20-30 minutes several times per day to engage on Twitter. If you have gotten new followers who look like great prospects, give them a shout and ask them what piqued their interest. RT influential people. Join #twitterchats, Facebook group Q&As, LinkedIn discussions, etc. There is a lot you can do in the time of a coffee break that can begin to engage a handful of new fans.
 
+Looking for a list of tools to help you manage your social media? We put a few great ones on our list of (Tools Every Startup Needs](https://www.kohactive.com/blog/ten-tools-every-startup-needs/].
+
 This can seem like a lot of work--and at times it will be. But it pays off in the end. The more you engage, share, and interact with others in a genuine way online (and offline for that matter), the more you get noticed.
