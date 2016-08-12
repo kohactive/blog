@@ -55,6 +55,8 @@ One of the reasons people build overly complicated systems with every feature th
 
 Worse than this is investor pressure. If you think your investors will sue you for not building every feature in your deck, then you either put together a very misleading deck or have no idea what you are doing. Investors should be investing in you, not features you promised. A failed startup will always be your fault, not your products'. You are your product and your product is you.
 
+Check out a recent post on (Failing Fast)[https://www.kohactive.com/blog/failing-fast-isnt-failure-what-i-learned-what-you-should-know/].
+
 ## Companies, not products, become unicorns.
 
 Success comes from having the right team and meeting your sales goals. It’s important to remember that products are just a way to connect with customers. It is merely anecdotal that, in a world with so many entrepreneurs and companies, users gravitate to companies with the best product. Following this thinking, we can derive that our most successful salesman is our product. Let your product sell you. Using this thinking, we can shift the paradigm when thinking about what product needs to be. 
@@ -63,7 +65,7 @@ The focus of a startup should be on creating a User Experience that people love,
 
 ## Scaling
 
-There is a time and a place for building every feature, having a 1000 person team, and spending millions of dollars on your app. Ideally these things should happen after your product is getting traction and earning positive reviews. If you are getting good traction and feel like there is huge market potential, but you don't have enough cash to grow fast enough to keep up with market, then it might be a good time to take on investment. This is how you spend a million dollars building a company like Uber, but it should come after hustling your MVP into a profitable small business. 
+There is a time and a place for building every feature, having a 1000 person team, and spending millions of dollars on your app. Ideally these things should happen after your product is getting traction and earning positive reviews. If you are getting good traction and feel like there is huge market potential, but you don't have enough cash to grow fast enough to keep up with market, then it might be a good time to take on investment. This is how you spend a million dollars building a company like Uber, but it should come after hustling your (MVP)[https://www.kohactive.com/startups/three-week-mvp] into a profitable small business. 
 
 ## Closing
 
