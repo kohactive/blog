@@ -116,5 +116,6 @@ We want to share some tools that we've used to help medium sized marketing depar
 
 ### Let us help solve your marketing automation needs.
 ---
+Additionally, we've created a list of all of the tools startups need [here](https://www.kohactive.com/blog/ten-tools-every-startup-needs/). Check it out! 
 
-While these products are great and offer amazing starting points, as your needs grow and you want to do more, you may want explore custom solutions to help smooth integration friction. Let our team help with your next digital marketing campaign, and get a free consultation on how a custom solution could help soothe some of the pain points in your content marketing strategies. Click the start a project button at the top of the page and tell us about your needs.
+While these products are great and offer amazing starting points, as your needs grow and you want to do more, you may want explore custom solutions to help smooth integration friction.  Let our team help with your next digital marketing campaign, and get a free consultation on how a custom solution could help soothe some of the pain points in your content marketing strategies. Click the start a project button at the top of the page and tell us about your needs.
