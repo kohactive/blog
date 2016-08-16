@@ -12,7 +12,7 @@ banner: true
 featured: true
 ---
 
-Rebranding a company is tricky. Design and research costs a lot of money, and you always risk the new identity not being well-received by customers. Last week, Uber revealed a brand new look that’s causing a stir. Led by a CEO with no design experience (as many rebrands are), the new logo is meant to make the company feel more inclusive and less sleek. Time will tell as to whether or not the Uber rebrand is a success, but there are plenty of examples of successful rebrands--and rebranding fails--that give us some insight.
+Rebranding a company is tricky. Design and research costs a lot of money, and you always risk the new identity not being well-received by customers. Last week, [Uber](https://www.kohactive.com/blog/building-a-unicorn/) revealed a brand new look that’s causing a stir. Led by a CEO with no design experience (as many rebrands are), the new logo is meant to make the company feel more inclusive and less sleek. Time will tell as to whether or not the Uber rebrand is a success, but there are plenty of examples of successful rebrands--and rebranding fails--that give us some insight.
 
 ![Gap](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/37/Old-and-new-Gap-logos-landscape1.jpg)
 
