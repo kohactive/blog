@@ -97,4 +97,6 @@ One of our clients challenged us to build a complicated social, professional pro
 
 In conclusion, you should be user testing early and often. You don't need fancy tests and a giant team to get a start--in a follow-up to this article, we'll dive into the various techniques and platforms. Many startups and large corporations employ user testing on a regular basis to validate their assumptions and ensure they are building products that solve real customer problems. 
 
+[Click here to read the second part of this post.](https://www.kohactive.com/blog/user-testing-techniques-and-platforms/)
+
 _If you have any questions about user testing or want to learn more about how we help clients build data-driven products, then <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: User Testing Your Product" href="#modal-project-planner">reach out</a> to start a conversation._
