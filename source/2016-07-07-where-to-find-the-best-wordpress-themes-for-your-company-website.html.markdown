@@ -49,5 +49,7 @@ TeslaThemes has some of the best designed themes out there if you like a simple 
 #### <a href="http://www.vivathemes.com" target="_blank">Viva Theme</a>
 Viva Themes doesn’t have the largest selection of themes--but what they have are beautifully designed, vary by type of business with dozens of features, and include lifetime support and upgrades. They also include PNG and PSD source files on many themes--which is somewhat rare.
 
+If you are at all interested in learning how our [team wrangles Wordpress, take a look at our post](https://www.kohactive.com/blog/wordpress-workflow/)!
+
 We are happy to help you find the perfect theme for your business, or design one for you! Just reach out.
 
