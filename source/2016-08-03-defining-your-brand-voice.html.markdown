@@ -16,7 +16,7 @@ One of the cornerstones of cultivating a lasting relationship with your users is
 
 Here are some guidelines to consider when developing what kind of voice you want your brand to have: 
 
-**Know your audience:** If your app or product is geared towards professionals in the healthcare industry, you probably don’t want to lean too heavily on informality and humor in your messaging. Conversely, if your app is, say, designed to point users towards the best local happy hour specials, you’ll want to avoid a sterile, clinical feel that takes the fun out of everything. 
+**Know your audience:** If your app or product is geared towards professionals in the healthcare industry, you probably don’t want to lean too heavily on informality and humor in your messaging. Conversely, if your app is, say, designed to point users towards the best local happy hour specials, you’ll want to avoid a sterile, clinical feel that takes the fun out of everything. This is information you can learn about during your [research stage](https://www.kohactive.com/startups/research-sprint).
 
 Be empathetic towards the kind of ideal experience your users may be looking for, and use your existing user testing and research to inform what that might be. Let your user demographics help steer you towards the kind of messaging that might be appealing to them, but do beware of going too far in a direction and sounding hollow or phony. 
 
