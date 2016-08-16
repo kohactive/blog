@@ -53,4 +53,6 @@ Appropriately, Survey Monkey itself is a great example of a company that listene
 
 For smaller companies conducting simple questionnaires, Survey Monkey allows you to have up to 10 questions for free. If you're looking for a more complete polling experience with a suite of perks, there are options ranging from $25 to $85 a month. Those packages include 24/7 customer support, unlimited questions, full survey design customization, exportable and cross-tabbed data, statistical significance and analysis, and much more. 
 
+To learn more about how we approach research with our clients through the kohactive [Research Sprint](https://www.kohactive.com/startups/research-sprint).
+
 Think you need some help with startup research, proving your business model, or customer research? <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-cost-effective-research-tools" href="#modal-project-planner">Reach out</a>...we'd be happy to help.
