@@ -28,10 +28,12 @@ There are numerous things to research:
 3. **Create a survey, and get real potential feedback**: Make sure to go outside your inner circle. If you think something is a "need," your close friends are likely to also have this need. This doesn't prove a large market however.
 4. **Talk to people in person**. If you go to a coffee shop in the afternoon, you're bound to find people who are working, but willing to take a break from their work to answer a few questions. Asking random strangers, in exchange for coffee (or a $5 gift card) for a few minutes of their time is a great way to get face-to-face reaction. Keep it to three questions. If you try to explain what you're building, and they don't understand, you need to hone your elevator pitch. If they understand, but don't you don't see any excitement in their eyes when you're talking to them, then your idea is likely not for that person. This allows you to get real, live feedback that is more valuable than a survey.
 
+We walk our clients through an entire research sprint--[check it out](https://www.kohactive.com/startups/research-sprint).
+
 ## Talk to a few people who have done it before
 If you've worked in the startup world, you probably have a grasp of some of the common pitfalls of first-time entrepreneurs. But it is still great to ask questions. This gives you an early opportunity to introduce yourself to some local people who are startup experts--and they likely have advice for you on resources, people, and things you should know in general.
 
 ## Build a simple landing page, or a basic beta.
-Do you want to know if people will sign up for your idea? Build a landing page (or have one built) to collect emails and contact information. If you have the budget, you can even build out a beta version of your idea (depending on what it is.)
+Do you want to know if people will sign up for your idea? Build a landing page (or have one built) to collect emails and contact information. If you have the budget, you can even build out a beta version of your idea, depending on what it is, using a [simple website builder](https://www.kohactive.com/blog/should-you-make-your-own-website/).
 
 If you've done all of these things, and you're just as determined as you were at the outset to start building, then it's likely that your product has a shot at making it. Good luck...and keep in mind, you can always <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-proof-of-concept" href="#modal-project-planner">contact us</a> with questions about launching a startup.
