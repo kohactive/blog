@@ -63,3 +63,5 @@ Snapsheet has been around since 2011, and are one of the few successful pivot st
 **Website**: [http://www.snapsheet.com](http://www.snapsheet.com)
 
 **Description**: Snapsheet provides mobile branded apps to help auto insurance carriers settle claims in hours instead of days. Our self-service mobile app enables customers to take photos of their damaged vehicles on their own time without the hassle of scheduling an adjuster or a trip to a body shop. The customer can view their carrier-approved estimate, schedule an appointment with a body shop or even take an EFT cash payout all from their carrier's mobile app.
+
+Are you ready to create your company? Take a look at our post on [what you should do before you start building](https://www.kohactive.com/blog/proof-of-concept-what-to-do-before-you-start-building/). 
