@@ -40,6 +40,8 @@ Truly understanding your market and customers is much more difficult than it app
 ## Research
 We’re always surprised by how many entrepreneurs fail to do adequate research before pursuing an idea. You don't need to hire a research firm to get an initial understanding of the market. Rather, aim to use the information from your business model to research your customers and competitors.
 
+We have developed a research sprint for clients because of this common failure. Learn more about it [here](https://www.kohactive.com/startups/research-sprint).
+
 ### Market Size
 Understanding your market size and growth is absolutely critical to the success of a startup. Whether the market is huge and broad or small and niche, it's important to ensure you're entering a market that is growing.
 
