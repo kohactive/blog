@@ -13,7 +13,7 @@ primary: true
 
 A lot of first-time entrepreneurs cringe at the thought of a pivot. They don't understand it. Pivots are very common in startups-- they are not a sign of failure, instead they should be embraced as "<a href="https://www.youtube.com/watch?v=1hTI4z2ijc4" target="_blank">redeeming the failure</a>".
 
-A startup is not a business--it's a process-- with a goal to "search for a repeatable and scalable business model". That search is a progressive customer development process, in which founders experiment with a Minimum Viable Product (MVP) in order to maximize learning. As a result of each experiment, a pivot can occur when validated learnings lead to new discoveries in the business model.
+A startup is not a business--it's a process-- with a goal to "search for a repeatable and scalable business model". That search is a progressive customer development process, in which founders experiment with a [Minimum Viable Product (MVP)](https://www.kohactive.com/startups/three-week-mvp) in order to maximize learning. As a result of each experiment, a pivot can occur when validated learnings lead to new discoveries in the business model.
 
 <div><img src="https://newentrepreneurship.files.wordpress.com/2012/11/build-measure-learn.png" alt="Lean Startup Method" /><figcaption>Image from <a href="http://newentrepreneurship.nl/lean-startup-method/" target="_blank">New Entrepreneur</a></figcaption></div>
 
