@@ -14,7 +14,7 @@ featured: true
 
 Whether or not you’re at the stage where you’re fundraising, you’re likely thinking ahead. If you haven’t been through an investment cycle as part of another company, it’s a pretty amorphous place. 
 
-When we build an MVP for a company, we help build something entrepreneurs can take to investors, so they in-turn can get funding to further build their vision. But what do investors look for? What do good pitches contain? 
+[When we build an MVP](https://www.kohactive.com/startups/three-week-mvp) for a company, we help build something entrepreneurs can take to investors, so they in-turn can get funding to further build their vision. But what do investors look for? What do good pitches contain? 
 
 We’ve pulled together some answers from investors, as well as some examples of good pitch decks from now successful companies at various stages of fundraising.
 
@@ -65,4 +65,4 @@ Also early stage, AirBNB doesn’t do quite as good of a job at building a case,
 
 Here’s where we see a deck from a company that has the magic three--team, traction, and product. This deck is complex, including strategy, and why their focus at the time wasn’t on revenue. And this investment proved to be fruitful--where many of the competitors listed in different areas of this deck are no longer in existence, LinkedIn was just acquired for a cool $26BB+. Not too bad.
 
-If you’re building an early stage company, and not too sure at what stage you should reach out about investment, please feel free to ask us for advice! We may be a web development and design company, but we have a lot of experience working in all areas of startups--including fundraising.
+If you’re building an early stage company, and not too sure at what stage you should reach out about investment, please feel free to ask us for advice! We may be a web development and design company, but we have a lot of experience working in all areas of startups--including [fundraising](https://www.kohactive.com/blog/the-funding-conundrum/).
