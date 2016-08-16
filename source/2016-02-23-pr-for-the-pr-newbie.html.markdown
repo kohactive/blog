@@ -16,7 +16,7 @@ featured: true
 Public Relations is tough. A game of chicken-and-egg, reporters want to be the first to break huge news--but no one wants to write about something that may not trend. Even at an early stage, there are a few things you can do to try and land a few placements. Remember: PR is a marathon, not a sprint. Follow these five tips and watch your news and media exposure increase.
 
 ## Find your influencers
-Influencer marketing and PR are so huge right now. If you have a consumer startup, do some research on local or national influencers who may be interested in something you're making. For instance, if your company makes phone charging purses, find a few fashionable bloggers or celebrities who have complained about their phone dying on Twitter and offer them your product. 
+Influencer marketing and PR are so huge right now. If you have a consumer startup, do some research on local or national influencers who may be interested in something you're making. For instance, if your company makes phone charging purses, find a few fashionable bloggers or celebrities who have complained about their phone dying on Twitter and offer them your product. Here are some [tips on how to find influencers for your startup](https://www.kohactive.com/blog/influencer-marketing-for-startups/).
 
 If you're building an app, you can do a little research to find influencers who would be interested in that as well. Offer them the product to try out for free. You may have to pay some influencers, but not all. Depending on your budget, getting your product in front of an engaged and relevant audience with an authentic endorsement usually pays off in the end.
 
