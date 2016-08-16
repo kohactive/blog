@@ -115,4 +115,4 @@ It's clean, easy-to-navigate, and the product imagery is presented very well wit
 **What makes me love the design**:  
 It does a nice job of incorporating the function and design of the product into that of the page; the use of color and environmental effect really play into what the product is about.
 
-Tell us...what what websites do you think are very well designed?
+If you're considering [building a product, let us help you create a design](https://www.kohactive.com/startups/design-sprint) as great as these!
