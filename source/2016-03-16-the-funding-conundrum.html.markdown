@@ -37,6 +37,6 @@ Bootstrapping comes with a unique set of positives and negatives. Here are the t
 4. **Lack of Street Cred.** If you’re strolling around networking events, telling people that Google Ventures invested in you, that’s going to raise a different set of eyebrows than if you bootstrap.
 5. **Focus:** Most people who find themselves bootstrapping a startup are usually freelancing in some capacity. What makes this so difficult at times is that the work paying the bills takes priority over the work building the company.
 
-Bootstrapping may or may not be financially feasible for your newly formed startup company. Angel investment would be an alternative to bootstrapping. We’ll cover that topic in a few weeks, starting with how to go about finding angel investors if they’re not already a part of your network, as well the pros and cons of taking angel investment.
+Bootstrapping may or may not be financially feasible for your newly formed startup company. Angel investment would be an alternative to bootstrapping. If you would like to learn more about what investors look for, or what other successful startups have pitched at the bootstrapping stage (and beyond,) check out our post on [Startup Investment](https://www.kohactive.com/blog/investment-in-startups-what-investors-look-for-what-successful-startups-pitch/).
 
 If you have questions about bootstrapping, please let us know. <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-funding-conundrum" href="#modal-project-planner">Contact us to start a conversation.</a>
