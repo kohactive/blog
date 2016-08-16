@@ -12,7 +12,7 @@ banner: true
 featured: true
 ---
 
-Paperwork is filed, and you’re an official business. You’ve done your <a href="https://leanstack.com/lean-canvas/" target="_blank">lean canvas</a>, determined your resource holes and how to fill them, and begun to build your product. The next steps typically depend on the type of business you’re building, but you know you will need to eventually market your startup.
+Paperwork is filed, and you’re an official business. You’ve done your <a href="https://leanstack.com/lean-canvas/" target="_blank">lean canvas</a>, determined your resource holes and how to fill them, and begun to build your product. The next steps typically depend on the type of business you’re building, but you know you will need to eventually market your startup. Before you begin, be sure to read our post on [what to do before you start your startup](https://www.kohactive.com/blog/before-you-start-your-startup/).
 
 Many startup founders jump head-first into marketing with little or no experience. While it’s true anyone can create a Twitter profile, it does take some experience and knowledge to market a startup company as the needs of every startup vary depending on its stage. In this series, Marketing Your Startup, we’ll cover the different phases of marketing for your startup company. Here is a getting started resource guide.
 
@@ -42,13 +42,13 @@ Design is your visual brand, and is as important as your name. Here are consider
 4. Fonts: Speaking of fonts, most people choose the most basic web fonts available. Being super particular about fonts being used on your website, if they aren’t basic webfonts, will make your website less consistent across browsers and versions.
 5. Colors: Nailing down specific colors can be left to a designer, but you should have an idea of what you like. You should also do a bit of research on the psychology of color.
 
-Once you’re past your proof of concept, you can work further to develop a brand story and positioning statement(s). But starting with the right amount of strategy in regards to design from the outset is a smart way to approach launch.
+Once you’re past your proof of concept, you can work further to develop a brand story and positioning statement(s). But starting with the right amount of strategy in regards to design from the outset is a smart way to approach launch. Learn more about our client approach to [design here](https://www.kohactive.com/startups/design-sprint)!
 
 ![What accounts you need](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/70/Satellite.png)
 
 ## What Accounts You Need
 
-You may not be a marketing expert, but there will be some marketing tools you need to claim before you bring someone on board. This involves setting up accounts on Facebook, Twitter, Instagram, LinkedIn--if all of those make sense for your brand. Here’s how to determine what social media accounts make sense for you. 
+You may not be a marketing expert, but there will be some [marketing tools](https://www.kohactive.com/blog/ten-tools-every-startup-needs/) you need to claim before you bring someone on board. This involves setting up accounts on Facebook, Twitter, Instagram, LinkedIn--if all of those make sense for your brand. Here’s how to determine what social media accounts make sense for you. 
 
 ### Twitter
 This one is the most universally needed. This account is good for starting to follow other fellow startups (and investors,) sharing industry news, and building lists of people who are important in your industry.
@@ -71,7 +71,7 @@ You can always create a company page later on--LinkedIn doesn’t fall high on o
 ### Periscope and Snapchat
 We don’t recommend startups use these unless they seamlessly mesh with the company and its operations--without a dedicated marketing team, creating this content consistently can be difficult.
 
-The most important thing to consider with any social media as part of your marketing plan is only taking on as much as you can effectively manage. If you cannot keep up on Twitter, it likely makes sense to claim the handle, park it with one tweet driving users to your website.
+The most important thing to consider with any social media as part of your marketing plan is only taking on as much as you can effectively manage. If you cannot keep up on Twitter, it likely makes sense to claim the handle, park it with one tweet driving users to your website. [Learn how to organically grow your social media following here](https://www.kohactive.com/blog/learning-from-your-customers-or-future-customers/).
 
-These are the initial things your company needs to do in order to set your startup brand up for success. In our next _Marketing Your Startup_ post, we’ll cover customer research.
+These are the initial things your company needs to do in order to set your startup brand up for success. In our next _Marketing Your Startup_ post, we’ll cover [customer research](https://www.kohactive.com/blog/learning-from-your-customers-or-future-customers/).
 
