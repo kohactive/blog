@@ -8,7 +8,7 @@ category: Mobile
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
-image: https://images.unsplash.com/photo-1432741826919-baadebff52aa?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1450
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/149/photo-1432741826919-baadebff52aa.jpg
 banner: true
 featured: false
 ---
