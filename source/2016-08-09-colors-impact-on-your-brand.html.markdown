@@ -8,7 +8,7 @@ author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
 banner: true
-image: https://hd.unsplash.com/photo-1453475250267-163ff185e88e
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/145/ian-schneider-59335.jpg
 featured: true
 ---
 

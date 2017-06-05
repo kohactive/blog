@@ -7,7 +7,7 @@ tags: Marketing, copywriting
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
-image: https://hd.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/144/florian-klauer-489.jpg
 banner: true
 featured: true
 ---
