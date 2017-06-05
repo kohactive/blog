@@ -7,7 +7,7 @@ category: Marketing
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
-image: https://hd.unsplash.com/photo-1469243159284-ec62e27ddffd
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/146/mike-wilson-113304.jpg
 banner: true
 featured: true
 ---

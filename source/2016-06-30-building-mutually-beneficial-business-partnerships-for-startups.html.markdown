@@ -7,7 +7,7 @@ category: Business Development
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
-image: https://images.unsplash.com/photo-1433170836232-79eac4ca5e9e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=090f4e92a948dabea87af499795a039b
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/147/photo-1433170836232-79eac4ca5e9e.jpg
 banner: true
 featured: true
 ---
