@@ -1,2 +1,6 @@
 /.env
 /.env.*
+
+# ignore OS X folder view settings
+.DS_Store
+.DS_Store?
