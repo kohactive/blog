@@ -32,7 +32,7 @@ In this example, we will be passing a static state for the steps in the nav-bar,
 
 Hop over to your project directory in the terminal and run the command to generate a component. (Don’t forget it must have a dash in the component name. You must already have a project started and have [Ember-CLI](https://ember-cli.com/) installed.):
 
-```
+```bash
 ember generate component nav-bar
 ```
 
@@ -50,7 +50,7 @@ Inside that `didInsertElement()` function, save each property in a variable `var
 
 Finally, we want to assign those css classes to the correct DOM elements. I like to check my work with color. Add something to your CSS file like:
 
-```
+```javascript
 .step-active {
   background-color: red;
 }
@@ -58,7 +58,7 @@ Finally, we want to assign those css classes to the correct DOM elements. I like
 
  Then put in the code to assign the class to the correct element if that property has been passed in to that `didInsertElement()` function.
 
-```
+```javascript
 if(activeStep) {
   this.$("#" + activeStep).addClass("step-active");
 }
@@ -75,19 +75,19 @@ Let's refactor this to use Ember's computed properties. Computed properties in E
 
 We are going to create a component for each step in our nav-bar. The nav-bar will call the navbar-step component for each step and pass in the properties it needs. First, let's create the new component:
 
-```
+```bash
 ember generate component navbar-step
 ```
 
 In `navbar-step.hbs` insert the code for one step.
 
-```
+```html
 <li id="step-1"><span class="step">1</span> Information </li>
 ```
 
 After changing the number and text to be properties and removing the surrounding `li` tags, it becomes:
 
-```
+```html
 <span class="step">{{stepNumber}}</span> {{stepLabel}}
 ```
 
@@ -95,19 +95,19 @@ We won't need that id anymore (we were only using it for targeting). We will nee
 
 Go to your original component, `nav-bar.hbs`, and call each step using the step component. We will need to pass `stepActive` and `stepComplete` through as a property. (There are other ways to handle this if it gets more complex, such as using a service, that won't be covered in this blog post.) I have switched these to just the number instead of the class name.
 
-```
+```html
 {{navbar-step stepNumber="1" stepLabel="Information" stepActive=stepActive stepComplete=stepComplete}}`.
 ```
 
 In `application.hbs` that is:
 
-```
+```html
 {{nav-bar stepActive="2" stepComplete="1"}}
 ```
 
 Here comes the exciting part, the new computed properties. Go to the new component's `navbar-step.js` file and pass the property through and create the new computed properties. (You'll need one for each property: `isStepActive` and `isStepComplete`.)
 
-```
+```javascript
 tagName: 'li',
 classNameBindings: ['isStepActive:step-active', 'isStepComplete:step-complete'],
 isStepActive: Ember.computed('stepActive', 'stepNumber', function(){
@@ -119,7 +119,7 @@ isStepComplete: Ember.computed('stepComplete', 'stepNumber', function(){
 ```
 
 One last bit, now let's make that checkmark appear than the the step number for completed steps in `navbar-step.hbs`. 
-```
+```html
 {{#if isStepComplete}}
   &check;
 {{else}}
@@ -128,7 +128,7 @@ One last bit, now let's make that checkmark appear than the the step number for 
  {{stepLabel}}
 ```
 
-Now it works like we expect it to again. Although it takes more files/lines of code in this simple example, it is more flexible and can handle more complex cases and cases where the page needs to react to changes in the data.
+Now it works like we expect it to again. Although it takes more files and lines of code in this simple example, it is more flexible and can handle more complex cases and cases where the page needs to react to changes in the data.
 
 All done! See the Twiddle at: [Cheryl's Ember nav-bar with computed properties twiddle](https://ember-twiddle.com/4143b09874b7b5028550d5e8f22c0879?openFiles=templates.components.nav-bar.hbs%2Ctemplates.components.navbar-step.hbs).
 More info about Ember Computed Properties in the docs: [Ember.Computed docs](https://emberjs.com/api/ember/2.14.1/namespaces/Ember.computed).
