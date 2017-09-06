@@ -128,7 +128,7 @@ One last bit, now let's make that checkmark appear than the the step number for 
  {{stepLabel}}
 ```
 
-Now it works like we expect it to again. Although it takes more files and lines of code in this simple example, it is more flexible and can handle more complex cases and cases where the page needs to react to changes in the data.
+Now it works like we expect it to again. In this simpe example, using computed properties was more complicated to set up, but hopefully this helped you achieve a deeper understanding.
 
 All done! See the Twiddle at: [Cheryl's Ember nav-bar with computed properties twiddle](https://ember-twiddle.com/4143b09874b7b5028550d5e8f22c0879?openFiles=templates.components.nav-bar.hbs%2Ctemplates.components.navbar-step.hbs).
 More info about Ember Computed Properties in the docs: [Ember.Computed docs](https://emberjs.com/api/ember/2.14.1/namespaces/Ember.computed).
