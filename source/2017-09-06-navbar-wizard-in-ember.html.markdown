@@ -5,6 +5,8 @@ date: 2017-09-06
 tags: ember, ember.js, javascript, js, web development, website development, learning, software development
 category: Development
 author_id: cheryl
+image: https://s3.amazonaws.com/kohactive.com/blog/ColorfulLegosJumbled.jpg
+banner: true
 ---
 
 # Navbar Wizard In Ember
