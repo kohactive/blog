@@ -24,11 +24,11 @@ The quantity of steps was not certain yet. It might end up being compressed to t
 
 Now we could obviously write this the copy/paste way into a new file for each step `nav-bar-step1`, `nav-bar-step2`, `nav-bar-step3`, but who wants to try to keep that all in sync? What if we do need to add a fourth step, or drop down to 2 steps? We want to make our code more flexible and have fewer files to manage, while at the same time making this first version of the product simple and fast to get started with.
 
-This is a good opportunity to explore component properties in Ember.js. In Ember, a component is a view that is isolated from other views. It has its own data and can be reused in multiple other places. It cannot access properties outside its own scope; properties from the parent page must explicitly pass properties in to be used in the component. We're going to build one together for this navigation element.
+This is a good opportunity to explore component properties in Ember.js. In Ember, a component is a view that is isolated from other views. It has its own data and can be reused in multiple other places. It cannot access properties outside its own scope; properties from the parent page must be explicitly passed in to be used in the component. We're going to build one together for this navigation element.
 
-In this example, we will be passing a static state for the steps in the nav-bar, which will be defined in each call to render the component. You will be able to find additional examples online explaining this passing model properties into the component instead.
+In this example, we will be passing a static state for the steps in the nav-bar, which will be defined in each call to render the component. You will be able to find additional examples online explaining this passing model properties into the component.
 
-## Version 1
+## Version 1 (Using good ol' jQuery)
 
 Hop over to your project directory in the terminal and run the command to generate a component. (Don’t forget it must have a dash in the component name. You must already have a project started and have [Ember-CLI](https://ember-cli.com/) installed.):
 
@@ -67,7 +67,7 @@ if(activeStep) {
 Objective complete! See the Twiddle at: [Cheryl's Ember nav-bar twiddle](https://ember-twiddle.com/bf3d6eeb406a3365c860a4bb9e205023?openFiles=templates.components.nav-bar.hbs%2Ctemplates.components.nav-bar.hbs).
 More info about Ember Components in the docs: [Ember.Component docs](https://www.emberjs.com/api/ember/2.14.1/classes/Ember.Component).
 
-## Version 2: Using Ember's Computed Properties
+## Version 2: (Using Ember's Computed Properties)
 
 Now this works... but it's really not leveraging Ember's abilities. It's basically the same as if we wrote some functions at document.ready. This is a good place to start, especially if you are already familiar with jQuery, but let's use this page to show another strategy we could use.
 
@@ -119,6 +119,7 @@ isStepComplete: Ember.computed('stepComplete', 'stepNumber', function(){
 ```
 
 One last bit, now let's make that checkmark appear than the the step number for completed steps in `navbar-step.hbs`. 
+
 ```html
 {{#if isStepComplete}}
   &check;
