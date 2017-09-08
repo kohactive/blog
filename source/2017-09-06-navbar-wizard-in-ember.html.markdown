@@ -9,7 +9,7 @@ image: https://s3.amazonaws.com/kohactive.com/blog/ColorfulLegosJumbled.jpg
 banner: true
 ---
 
-# Navbar Wizard In Ember
+
 Designing intuitive user experiences for non-traditional user flows, such as checkout, can be complicated. In order to solve this, most modern sites provide a wizard to guide the user. The wizard lists breaks the flow into pieces, lists them for the user, and displays their current progress. They help the user understand where they are in the process intuitively.
 
 One such application I recently worked on had a navbar designed with the usual logo on the left, some other text on the right, and something like this in the middle for the first page:
