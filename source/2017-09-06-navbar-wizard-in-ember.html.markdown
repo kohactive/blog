@@ -1,6 +1,6 @@
 ---
 title: Navbar Wizard In Ember
-subtitle: How To Build a Wizard Using Ember Components
+subtitle: How To Build a Wizard Using Ember Computed Properties and Components
 date: 2017-09-06 14:00 +0000
 tags: ember, ember.js, javascript, js, web development, website development, learning, software development
 category: Development
