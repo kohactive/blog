@@ -16,7 +16,7 @@ featured: true
 When it comes to print and web design, it’s important that you remain consistent across all platforms, formats, and treatments. Lots of people who have a cursory knowledge of Photoshop try to take on design challenges on their own, but it’s really best to hire a great web designer. That doesn’t mean that you have to turn to a designer every time you need a different size or variation of a logo--so long as you plan ahead when having your initial designs created. Here are some things to ask your designer for, which will help you in the long run.
 
 ## Logo Sizes
-Unless you want to constantly resize the logos you have, it’s a good idea to have your designer save different size logos. 
+Unless you want to constantly resize the logos you have, it’s a good idea to have your designer save different size logos.
 
 - One logo square at 200x200 (for social media)
 - One logo square at 400x400 (for social media)
@@ -27,7 +27,7 @@ Unless you want to constantly resize the logos you have, it’s a good idea to h
 - One logo, original format at 2500 wide
 
 
-## Logo Colors 
+## Logo Colors
 Once you have your brand colors chosen, and your logo is finalized, be sure to ask for different color variations. Depending on the use case, you will likely need:
 
 - An original color logo
@@ -51,6 +51,6 @@ Logo File Types: Different file types are used in different ways. You’ll want 
 **pdf:** While you’re likely already familiar with pdf files, you’ll want to make sure to ask your designer for an editable pdf. In an editable pdf, the layers (parts) of your design are independent pieces that are able to be edited in a design program. This is necessary, as you’ll likely work with different designers.
 
 ## Hosting
-Another easy thing to do is to have your designer work with your developer, and upload your logos to your server so they are easily accessible via links. Then, when someone asks for a logo, you can just send a link rather than having to find the logo over and over. 
+Another easy thing to do is to have your designer work with your developer, and upload your logos to your server so they are easily accessible via links. Then, when someone asks for a logo, you can just send a link rather than having to find the logo over and over.
 
-These are some quick tips to make your life a bit easier. If you’ve still got questions about logo design, we’d be happy to help. <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-logo-design-guidelines" href="#modal-project-planner">Let us know.</a>
+These are some quick tips to make your life a bit easier. If you’ve still got questions about logo design, we’d be happy to help. <a href="https://www.kohactive.com/contact/">Let us know.</a>

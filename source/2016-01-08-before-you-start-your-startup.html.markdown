@@ -22,14 +22,14 @@ For example, Airbnb's mission is short, simple, and to the point: "Belong anywhe
 
 While Uber's mission is a bit more lofty and complex: "Transportation, as reliable as running water, everywhere for everyone." This likely was not the mission when the company started in 2011--but given the global impact seen by the company, this mission makes perfect sense for what the company is accomplishing--and continues to try to accomplish.
 
-For a great overview of startup missions statements, be sure to check out [Inc. Magazine’s comprehensive list][inc-mission-statements]. 
+For a great overview of startup missions statements, be sure to check out [Inc. Magazine’s comprehensive list][inc-mission-statements].
 
 
 <div><img src="http://leanstack.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-14-at-9.38.44-AM.png" alt="Lean Canvas" /></div>
 
 
 ## Understand Your Business Model
-A lot of startups run with an idea and build a product without fully understanding their business model. In other words; just because a few friends told you that you have a great idea, it doesn't necessarily mean anybody would pay for it. We've spoken with a lot of startups that "had a great idea," but experienced much difficulty getting traction with their business model. 
+A lot of startups run with an idea and build a product without fully understanding their business model. In other words; just because a few friends told you that you have a great idea, it doesn't necessarily mean anybody would pay for it. We've spoken with a lot of startups that "had a great idea," but experienced much difficulty getting traction with their business model.
 
 A business model is a strategy for generating revenue and delivering value to your customers. It identifies your market, customers, solutions, revenue streams, and much more. There are numerous tools out there to help build your business model, but we prefer the Lean Canvas, which we think is an ideal plan for entrepreneurs.
 
@@ -45,7 +45,7 @@ We have developed a research sprint for clients because of this common failure. 
 ### Market Size
 Understanding your market size and growth is absolutely critical to the success of a startup. Whether the market is huge and broad or small and niche, it's important to ensure you're entering a market that is growing.
 
-Making sense of the local market size is just as important. When a startup launches, its product typically isn’t instantly available worldwide. Instead, it starts with a local economy, then grow to other cities (or demographic groups) and beyond. 
+Making sense of the local market size is just as important. When a startup launches, its product typically isn’t instantly available worldwide. Instead, it starts with a local economy, then grow to other cities (or demographic groups) and beyond.
 
 If you want to start a successful business, you simply must be in the right place at the right time. If you’re local (or relevant) economy isn't big enough, then your chances of survival are small. For example, if you're trying to develop a restaurant delivery service in a small suburb, you're probably going to have much more difficulty there than in large cities like New York City or Chicago where there are vastly more customers and demand.
 
@@ -66,7 +66,7 @@ Google has a few great tools for conducting simple market research:
 - [Google Trends][google-trends], which shows you search trends for key items
 - [Google Insights][google-insights], which breaks down search data by location
 
-You can also <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-before-you-start-your-startup" href="#modal-project-planner">Contact Us</a> if you would like with customer research.
+You can also <a href="https://www.kohactive.com/contact/">contact us</a> if you would like help with customer research.
 
 ## Customer Development
 Customer development is one of the most important aspects of finding product/market fit. Many entrepreneurs underestimate the importance of it, instead putting faith in the belief that "if you build it, they will come." This is far from reality. You simply can't build a successful product without the help of your customers.
@@ -80,13 +80,13 @@ Customer development is the process of identifying, interviewing, and understand
 3. **Identify Pains and Needs**: Get an idea of their pain points and what their needs are. Try to extract as much detail as possible.
 4. **Notes**: Take notes. Lots of notes.
 
-People love to talk, especially when somebody is listening. Learn to become a good listener and you'll both enjoy the experience. 
+People love to talk, especially when somebody is listening. Learn to become a good listener and you'll both enjoy the experience.
 
 Once you have this data--refer back to it often. And continually get new feedback as your product evolves.
 
 Customer development is a great way to identify what kind of product you must build to find a product/market fit. Likewise, the process can even help you find your first customers. The people that take time to talk to you will be even more vested in your idea as they feel that they are part of something big.
 
-If you need help with any of the above steps, please <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-before-you-start-your-startup" href="#modal-project-planner">Contact Us</a>. 
+If you need help with any of the above steps, please <a href="https://www.kohactive.com/contact/">Contact Us</a>.
 
 [cb-insights-failures]: https://www.cbinsights.com/blog/startup-failure-post-mortem/ "Compilation of startup failures by CBInsights"
 [inc-mission-statements]: http://www.inc.com/larry-kim/30-inspiring-billion-dollar-startup-company-mission-statements.html "30 Inspiring Billion-Dollar Startup Company Mission Statements"

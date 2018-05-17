@@ -1,5 +1,5 @@
 ---
-title: "User Testing: What Is It and Why You Should Do It" 
+title: "User Testing: What Is It and Why You Should Do It"
 subtitle: User testing saves you money, increases revenue and helps build better products.
 date: 2016-04-15 01:05 +0000
 tags: Startups, User Testing, Customer Development
@@ -36,7 +36,7 @@ User testing is a cornerstone of <a href="https://en.wikipedia.org/wiki/User-cen
 
 ## Benefits of User Testing
 
-User testing has many benefits, whether you're testing a new product idea, introducing a new feature or redesigning an existing one. User testing allows a team to identify problems early and often. The earlier an issue is identified then the easier and cheaper it will be to fix. 
+User testing has many benefits, whether you're testing a new product idea, introducing a new feature or redesigning an existing one. User testing allows a team to identify problems early and often. The earlier an issue is identified then the easier and cheaper it will be to fix.
 
 ![](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/88/increaserevenue.jpg)
 
@@ -56,7 +56,7 @@ For our client above, competition is tough. Rather than just redesign and jump i
 
 ##### Customer Advocacy
 
-Not only does user testing lead to the retention of paying customers, it also creates brand advocates. Think about all the times you've fallen in love with a product and told all your friends about it. 
+Not only does user testing lead to the retention of paying customers, it also creates brand advocates. Think about all the times you've fallen in love with a product and told all your friends about it.
 
 User testing enables teams to build products their customers want and need. Likewise, taking the time to listen to your customers and make them part of your development processes attaches them to your brand. They feel like they are more than just customers, but part of the team. They'll advocate and become your largest source of free marketing.
 
@@ -67,19 +67,19 @@ User testing enables teams to build products their customers want and need. Like
 User testing wireframes or mockups can reduce development costs significantly. There is no benefit in building something that hasn't been validated by customers. An estimated <a href="http://www.usability.gov/what-and-why/benefits-of-ucd.html" target="_blank">50% of engineering time</a> is spent doing rework that could have been avoided. Our client above learned this the hard way.
 
 #### Avoid building features nobody cares about
-One of the biggest mistakes I see entrepreneurs make is adding as many features as they can afford. While ideating about new features can be great, it's a waste of time to build them unless users actual want and need them. 
+One of the biggest mistakes I see entrepreneurs make is adding as many features as they can afford. While ideating about new features can be great, it's a waste of time to build them unless users actual want and need them.
 
 A few years ago, during the design workshop with one of our clients, we discussed a particularly small feature. We tried to push back but our client was confident it was necessary. It wasn't going to be expensive to build either (it always feels like that, right?). This was a time before we pushed for user testing and so we ended up building the feature. Not many people actually use the feature but we have the burden of maintaining it for the very few that do.
 
 #### Validate (or invalidate) assumptions about user behaviors
 
-Every founder and designer start with assumptions about how their users are going to use their product. Sometimes they are spot on, other times they are incredibly surprised. This is especially important for existing products that are adding new features or redesigning existing ones. 
+Every founder and designer start with assumptions about how their users are going to use their product. Sometimes they are spot on, other times they are incredibly surprised. This is especially important for existing products that are adding new features or redesigning existing ones.
 
 In _The Lean Startup_, Eric Ries discusses how they build IMVUs Instant Messenger integration. They assumed users wanted to use existing software and just include an addon. In reality, their users wanted a completely separate community to engage with. They could have saved a lot of time and money by talking to customers, showing them a wireframe or prototype and learning.
 
 ##### Avoid building confusing navigations
 
-When you build complicated product websites with hundreds of pages it's very easy to build difficult navigation systems. Rather than design, architect and develop your entire navigation system on an assumption, you can create clickable prototypes to test with users. 
+When you build complicated product websites with hundreds of pages it's very easy to build difficult navigation systems. Rather than design, architect and develop your entire navigation system on an assumption, you can create clickable prototypes to test with users.
 
 ![](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/87/reducesupportcost.jpg)
 
@@ -95,8 +95,8 @@ One of our clients challenged us to build a complicated social, professional pro
 
 ## Conclusion
 
-In conclusion, you should be user testing early and often. You don't need fancy tests and a giant team to get a start--in a follow-up to this article, we'll dive into the various techniques and platforms. Many startups and large corporations employ user testing on a regular basis to validate their assumptions and ensure they are building products that solve real customer problems. 
+In conclusion, you should be user testing early and often. You don't need fancy tests and a giant team to get a start--in a follow-up to this article, we'll dive into the various techniques and platforms. Many startups and large corporations employ user testing on a regular basis to validate their assumptions and ensure they are building products that solve real customer problems.
 
 [Click here to read the second part of this post.](https://www.kohactive.com/blog/user-testing-techniques-and-platforms/)
 
-_If you have any questions about user testing or want to learn more about how we help clients build data-driven products, then <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: User Testing Your Product" href="#modal-project-planner">reach out</a> to start a conversation._
+_If you have any questions about user testing or want to learn more about how we help clients build data-driven products, then <a href="https://www.kohactive.com/contact/">reach out</a> to start a conversation._

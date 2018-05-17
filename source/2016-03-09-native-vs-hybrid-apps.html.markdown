@@ -50,7 +50,7 @@ If you are a startup that wants to be in both app stores, and your mobile app is
 ​
 If you are looking to build a very custom user experience, provide an app that is rich with editable media, or create a game, native is probably your best bet. Regardless, it might be interesting to explore how you could mix a hybrid app with custom native code.
 
-If you need help determining whether you need a native or hybrid app, please let us know. <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-native-vs-hybrid" href="#modal-project-planner">Fill out our Project Planner</a>
+If you need help determining whether you need a native or hybrid app, please let us know. <a href="https://www.kohactive.com/contact/">Fill out our Project Planner</a>
 
 
 

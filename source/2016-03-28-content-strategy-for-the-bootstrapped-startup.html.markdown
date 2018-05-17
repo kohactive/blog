@@ -26,6 +26,6 @@ featured: true
 
 6. **Leave the reader with a few takeaways they can act on easily.** This can be hard to do if you're writing about super technical topics, but typically, your writing should have a few takeaways; action items (or in the least, learnings) that the average reader will find valuable. This is how you drive repeat traffic to your website, and start to build a following to your blog or other marketing content.
 
-7. **Ask people to sign-up to have your content sent to them directly.** This seems like a no-brainer, but once you start creating compelling content, getting readers or users to sign-up to keep it coming is a great way to keep engagement up. 
+7. **Ask people to sign-up to have your content sent to them directly.** This seems like a no-brainer, but once you start creating compelling content, getting readers or users to sign-up to keep it coming is a great way to keep engagement up.
 
-Take these steps one at a time--remember, the most important thing is to create content regularly that your target audience will find valuable and relevant. And as always, <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-content-strategy-for-bootstrapped-startup" href="#modal-project-planner">let us know</a> if you need some help!
+Take these steps one at a time--remember, the most important thing is to create content regularly that your target audience will find valuable and relevant. And as always, <a href="https://www.kohactive.com/contact/">let us know</a> if you need some help!

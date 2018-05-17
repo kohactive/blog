@@ -33,21 +33,21 @@ This can either be super easy or super hard. (Enlightening stuff, right?) If you
 
 **Have you done objective customer research?**
 
-After you've taken a look at all the resources available to you, it's time to talk to some real, live humans. Real, live humans who aren't your mom or your spouse. Doing some research with people you don't know can be intimidating, but you'll find that people are more willing (or even eager!) to help than you might think. 
+After you've taken a look at all the resources available to you, it's time to talk to some real, live humans. Real, live humans who aren't your mom or your spouse. Doing some research with people you don't know can be intimidating, but you'll find that people are more willing (or even eager!) to help than you might think.
 
-Go to a coffee shop in a neighborhood where your target market is likely to hang out, and offer to buy coffee or give a gift card in exchange for 5-10 minutes of the potential user's time. 
+Go to a coffee shop in a neighborhood where your target market is likely to hang out, and offer to buy coffee or give a gift card in exchange for 5-10 minutes of the potential user's time.
 
 Here are some customer research tips and tools on <a href="https://www.kohactive.com/blog/learning-from-your-customers-or-future-customers/">learning from your customers (or potential customers.)</a>
 
 **Have you looked at the competition? Is there competition?**
 
-There are a few schools of thought on competition. A typical "unicorn" is a completely new idea, but the risk is super high in building something that's never been tried before. You either win big or fail big. Gaining traction is SUPER hard since you have to get people to think in a new way. Once you succeed...that is if you succeed, you're likely going to be very successful. 
+There are a few schools of thought on competition. A typical "unicorn" is a completely new idea, but the risk is super high in building something that's never been tried before. You either win big or fail big. Gaining traction is SUPER hard since you have to get people to think in a new way. Once you succeed...that is if you succeed, you're likely going to be very successful.
 
 Most companies, however, live alongside ideas that are already successful--they are simply improvements or new ways of looking at a longstanding problem with multiple alternative, sometimes outdated, solutions. If your idea is bold and completely new, you must make sure your user testing and validation is mighty thorough. Typically, most companies want to build on ideas that are already tried and true, which means simply building improvements to those ideas.
 
 If you have looked at all of these factors, your marketing might be the cause of your lack of traction and success.
 
-That's not to say your marketer isn't successful--there could be a number of factors influencing your marketing success (or lack thereof). 
+That's not to say your marketer isn't successful--there could be a number of factors influencing your marketing success (or lack thereof).
 
 **How long has your product been live?**
 
@@ -55,7 +55,7 @@ Things don't happen overnight. If you're expecting sales, customer acquisition, 
 
 **Who is your target market? Are you communicating with them on a channel that makes sense?**
 
-If you've done your market research, you likely know the demo of your target audience. The next thing to look at is where this group of people "hang out," both online and off. Many, many startups discount experiential marketing right off the bat and rely on digital only. This is a huge mistake. Where else can you meet potential customers one-on-one and get immediate feedback on your product? Face to face. 
+If you've done your market research, you likely know the demo of your target audience. The next thing to look at is where this group of people "hang out," both online and off. Many, many startups discount experiential marketing right off the bat and rely on digital only. This is a huge mistake. Where else can you meet potential customers one-on-one and get immediate feedback on your product? Face to face.
 
 If it doesn't make sense to do any sort of in-person customer activation with your product, then pay very close attention to where you're spending digital dollars. Facebook ads may be cheap, but if you're going after a 20 year old woman, you're likely throwing that money down the toilet. However, taking out YouTube ads on a popular blogger who is reviewing the Kylie Jenner lip kit is probably a better use of your spend.
 
@@ -69,8 +69,8 @@ Maybe. First of all, the idea that any marketing is "free" is a fallacy. If you'
 
 **Do you have tools in place to measure where your customers are coming from?**
 
-This might have to be really scrappy at first, especially if you don't have the ability to integrate a lot of tools to track sources onto your website. You can send people who sign-up follow-up emails asking how they found out about you. A phone call is even more effective, but only if you send a personal email in advance and ask for a good time to chat. If you're sincere, most people will give you a few minutes. 
+This might have to be really scrappy at first, especially if you don't have the ability to integrate a lot of tools to track sources onto your website. You can send people who sign-up follow-up emails asking how they found out about you. A phone call is even more effective, but only if you send a personal email in advance and ask for a good time to chat. If you're sincere, most people will give you a few minutes.
 
 Once you talk to your customers, be sure to track the responses in a spreadsheet. Monitor when an influx of sign-ups come in as well, and track what happened that day. You might have been mentioned by a blogger, a news outlet, or even an influential Facebook page.
 
-Taking all of this into account will likely help you determine whether your product, or your marketing, is failing. While the adage "If you're going to fail, fail fast" exists--[no one wants to fail](https://www.kohactive.com/blog/failing-fast-isnt-failure-what-i-learned-what-you-should-know/). No matter what stage you're in, we can likely help you figure out your next steps. <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: Is It Your Product or Your Marketing That's Failing" href="#modal-project-planner">Reach out to us!</a> We would be happy to help with user testing, customer development, or marketing your startup.
+Taking all of this into account will likely help you determine whether your product, or your marketing, is failing. While the adage "If you're going to fail, fail fast" exists--[no one wants to fail](https://www.kohactive.com/blog/failing-fast-isnt-failure-what-i-learned-what-you-should-know/). No matter what stage you're in, we can likely help you figure out your next steps. <a href="https://www.kohactive.com/contact/">Reach out to us!</a> We would be happy to help with user testing, customer development, or marketing your startup.

@@ -13,7 +13,7 @@ primary: true
 
 _This is a follow-up to another article. If you're interested in the benefits of User Testing, [check out the article](https://www.kohactive.com/blog/user-testing-what-it-is-and-why-you-should-do-it/)_
 
-Last year we built an SMS-based photo sharing app called memms during an internal hackathon. 
+Last year we built an SMS-based photo sharing app called memms during an internal hackathon.
 
 Once the core app was working, we built a basic onboarding flow for new users. We showed it to a few users and watched them go through the flow without any prompting. On the first touch point, each user asked the same questions about the input that prompted them for a phone number: "Is this my phone number or the one I'll be texting?"
 
@@ -58,7 +58,7 @@ Five-second tests are a great way to gain insights into your landing page. Durin
 ![Preference Test](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/126/abtest.png)
 
 ### Preference Test
-Not only are preference tests a great way to settle internal debates, but they’re also a simple way to predict which design will perform better. A preference test, as the name implies, is a simple test where a subject is presented two options and selects the one they prefer. These tests can be moderated or unmoderated. Due to their simplicity, you can easily create and share preference tests across multiple platforms. 
+Not only are preference tests a great way to settle internal debates, but they’re also a simple way to predict which design will perform better. A preference test, as the name implies, is a simple test where a subject is presented two options and selects the one they prefer. These tests can be moderated or unmoderated. Due to their simplicity, you can easily create and share preference tests across multiple platforms.
 
 ### Competitive Test
 If you have direct competitors in your market, you should always conduct a competitive usability test. If you haven't started building your product yet, then you can conduct a problem discovery test on another website to find bottlenecks in competitor products. If you have a product, you can run tests against multiple competitors to see how you stack up. Competitive tests can be wholistic--testing the entire product--or focused on a specific feature or function.
@@ -69,7 +69,7 @@ If you have direct competitors in your market, you should always conduct a compe
 
 Always. I'm kidding. But not really. Plainly put: you should incorporate user testing into your process. If you look at methodologies like the Lean Startup, you'll see that user validation is a core component of the Build, Measure, Learn process. This is because user testing is key to ensuring that we're building products and services that solve problems for real users. Whether you're a one-person startup or a billion dollar company, bringing user testing into your process will improve your output and bottom line.
 
-User testing should become a habit. A habit that you implement at any stage of your process. Whether you are building a new product or redesigning a feature, you can always user test. 
+User testing should become a habit. A habit that you implement at any stage of your process. Whether you are building a new product or redesigning a feature, you can always user test.
 
 Here’s an overview of some good points to start testing:
 
@@ -89,13 +89,13 @@ Once you've validated your idea and solution, designing a great experience is ke
 If you can, I recommend conducting user tests after wireframing, as well as design. But if I had to pick one, I'd say wireframes.
 
 ### Beta & Launch
-Whether you have a beta period or <a href="https://www.youtube.com/watch?v=O_HyZ5aW76c" target="_blank">just do it live</a>, it's always important to conduct a user test of the product. While all of the other tests are based on prototypes and mockups, this phase of testing allows us to watch users actually use our product. 
+Whether you have a beta period or <a href="https://www.youtube.com/watch?v=O_HyZ5aW76c" target="_blank">just do it live</a>, it's always important to conduct a user test of the product. While all of the other tests are based on prototypes and mockups, this phase of testing allows us to watch users actually use our product.
 
 This is the phase where variable change comes into play. How does internet bandwidth affect the app? How about screen size? How about the speed of the app? In-person moderated tests, as well as platform based tests, are great for this phase.
 
 By the time you reach beta-phase or launch, you and your team are too close to the app, and it's time to get a fresh perspective and some qualitative feedback.
 
---- 
+---
 
 ## Platforms for Unmoderated Tests
 There are quite a few platforms for user testing available, each with differences in features and services. When using a platform, there are two primary types of unmoderated tests that you can run: "think out loud" and design feedback testing.
@@ -103,7 +103,7 @@ There are quite a few platforms for user testing available, each with difference
 ### "Think Out Loud" Platforms
 "Think out loud" platforms are a unique approach to unmoderated user testing. During these tests, the subject records themselves using the product and simultaneously thinks out loud. This approach provides you with much more information as the testers share their opinion and provide feedback during each step. If a user gets hung up somewhere, they can explain their thinking and confusion. This technique is great for problem discovery and benchmark testing.
 
-"Think out loud" platforms are typically more expensive, but provide you with quite a bit of knowledge. Unlike a traditional preference test or navigation test, "think out loud" tests provide qualitative feedback about the user's experience. 
+"Think out loud" platforms are typically more expensive, but provide you with quite a bit of knowledge. Unlike a traditional preference test or navigation test, "think out loud" tests provide qualitative feedback about the user's experience.
 
 Here are a few platforms that offer "think out loud" user testing services:
 
@@ -120,7 +120,7 @@ UserTesting costs $49 per video (up to 10) and $99 per video following that. For
 
 <div><img src="https://s3.amazonaws.com/mediocre-production/uploads/image/filename/129/userbrain.jpg" alt="UserBrain" /></div>
 
-#### UserBrain 
+#### UserBrain
 UserBrain is a "think out loud" platform that focuses primarily on websites and web-based applications, rather than mobile apps.
 
 Unlike other platforms, UserBrain sends you weekly (or monthly) videos of users testing out your website. The goal is to make user testing an ongoing part of your process--which could be very powerful if you are changing your site frequently. UserBrain requires real websites that are available to a tester, so mockup and prototype testing is not an option.
@@ -131,8 +131,8 @@ UserBrain pricing varies. It cost $49/month for one video per week, and $139/mon
 
 <div><img src="https://s3.amazonaws.com/mediocre-production/uploads/image/filename/130/userfeel.jpg" alt="UserFeel" /></div>
 
-#### UserFeel 
-UserFeel is another platform that provides "think out loud" feedback from users. Similar to UserBrain, they focus on websites and web-based applications. 
+#### UserFeel
+UserFeel is another platform that provides "think out loud" feedback from users. Similar to UserBrain, they focus on websites and web-based applications.
 
 Compared to the other platforms, UserFeel is much more cost friendly with videos starting at $39 or less. UserFeel also offers multilingual testing for those with international products.
 
@@ -185,9 +185,9 @@ Pricing is fairly simple: 1 credit per standard response and 3 per targeted resp
 <div><img src="https://s3.amazonaws.com/mediocre-production/uploads/image/filename/135/userthink.jpg" alt="UserThink" /></div>
 
 #### UserThink
-UserThink is focused primarily on testing landing pages. They focus on helping you create landing pages that convert better through user testing and feedback. They support live websites as well as prototypes and mockups. 
+UserThink is focused primarily on testing landing pages. They focus on helping you create landing pages that convert better through user testing and feedback. They support live websites as well as prototypes and mockups.
 
-Testers on UserThink view your design and then answer custom questions. The responses are aggregated for your review following the test. The pricing is simple but not flexible. They offer three plans: $39 for 6 responses, $69 for 12 responses and $99 for 18 responses. 
+Testers on UserThink view your design and then answer custom questions. The responses are aggregated for your review following the test. The pricing is simple but not flexible. They offer three plans: $39 for 6 responses, $69 for 12 responses and $99 for 18 responses.
 
 **Website:** <a href="https://www.userthink.com/" target="_blank">userthink.com</a>
 
@@ -203,8 +203,8 @@ Regardless of the size or phase of your startup, employing user testing as part 
 
 Remember that user testing is about uncovering and solving problems that real users will encounter. Whether you are in the discovery or beta launch phase, remember to identify a goal and select the appropriate type of test to conduct.
 
-With a variety of available platforms, you can easily find one that fits your requirements and budget. Don't worry about trying to get it right the first time, just keep iterating and collecting feedback until you've found a solution that works. 
+With a variety of available platforms, you can easily find one that fits your requirements and budget. Don't worry about trying to get it right the first time, just keep iterating and collecting feedback until you've found a solution that works.
 
-Good luck with user testing! If you have any questions or want help with the process, feel free to <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: User Testing Techniques and Platforms" href="#modal-project-planner">reach out</a>.
+Good luck with user testing! If you have any questions or want help with the process, feel free to <a href="https://www.kohactive.com/contact/">reach out</a>.
 
 <small><i>All illustrations by kohactivator, and designer extraordinaire, Ian Steele</i></small>

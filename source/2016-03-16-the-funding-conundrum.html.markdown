@@ -12,9 +12,9 @@ banner: true
 featured: true
 ---
 
-kohactive often acts as the first contact to startup founders that are looking to build a business. Sometimes these startup founders come in with a well-defined business plan and the backing of an infusion of capital by venture capitalists. Other founders have the business plan, but not the benefit of a flush checking account to play with. There are a number of avenues that can be pursued to rectify this situation, but one that seems to bring a lot of pride to founders is bootstrapping your startup. 
+kohactive often acts as the first contact to startup founders that are looking to build a business. Sometimes these startup founders come in with a well-defined business plan and the backing of an infusion of capital by venture capitalists. Other founders have the business plan, but not the benefit of a flush checking account to play with. There are a number of avenues that can be pursued to rectify this situation, but one that seems to bring a lot of pride to founders is bootstrapping your startup.
 
-First off, let’s explain just what bootstrapping is. 
+First off, let’s explain just what bootstrapping is.
 
 Basically, bootstrapping means you’re building your company by yourself, with your own money, and with little to no help. This means different things to different people. For instance, someone who is independently wealthy and can work on a startup full-time without having to worry about personal finances is bootstrapping in a very different way than someone who finds oneself in the "side-hustle" game of working on different projects to pay the bills, allowing them to stay focused on their startup. In other words, most bootstrapping founders rely on savings, credit, and sweat.
 
@@ -39,4 +39,4 @@ Bootstrapping comes with a unique set of positives and negatives. Here are the t
 
 Bootstrapping may or may not be financially feasible for your newly formed startup company. Angel investment would be an alternative to bootstrapping. If you would like to learn more about what investors look for, or what other successful startups have pitched at the bootstrapping stage (and beyond,) check out our post on [Startup Investment](https://www.kohactive.com/blog/investment-in-startups-what-investors-look-for-what-successful-startups-pitch/).
 
-If you have questions about bootstrapping, please let us know. <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-funding-conundrum" href="#modal-project-planner">Contact us to start a conversation.</a>
+If you have questions about bootstrapping, please let us know. <a href="https://www.kohactive.com/contact/">Contact us to start a conversation.</a>

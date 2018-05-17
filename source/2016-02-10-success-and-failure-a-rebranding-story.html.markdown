@@ -53,7 +53,7 @@ The move was bold, but it doesn’t exactly change how most end-users see or use
 
 In 2015, CareerBuilder launched a new logo. The job board has struggled to stay relevant in recent years, and a logo change was an opportunity to show that the company was evolving. The move failed miserably.
 
-Nothing about this logo works. It’s busy, confusing, and uses the same element in two separate logos without building cohesion. The fan thing within the "C" mark is meant to look like a "T" when turned sideways, which serves as the mark for the company’s new, more tech forward brand, Talentstream Technologies. 
+Nothing about this logo works. It’s busy, confusing, and uses the same element in two separate logos without building cohesion. The fan thing within the "C" mark is meant to look like a "T" when turned sideways, which serves as the mark for the company’s new, more tech forward brand, Talentstream Technologies.
 
 Lesson Learned: When your company is in a dying industry and you need a refresh, hire a brand agency. A new business launch can be totally overshadowed by a poor design.
 
@@ -65,4 +65,4 @@ Food delivery was once dedicated to pizza and Chinese. That’s all changed. The
 
 Lesson Learned: Don’t throw out the baby with the bathwater. But more importantly, if you’re considering a massive rebrand, let your customer base in on the plan before you fully execute. You can save a lot of money, and even reignite customer loyalty by reminding them of what they love.
 
-While company marks need to evolve, making sure to design your initial logo with the future in mind helps prevent costly rebranding in the future. We’d love to help you with your company rebrand. <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-before-you-start-your-startup" href="#modal-project-planner">Get in touch!</a>. 
+While company marks need to evolve, making sure to design your initial logo with the future in mind helps prevent costly rebranding in the future. We’d love to help you with your company rebrand. <a href="https://www.kohactive.com/contact/">Get in touch!</a>.
