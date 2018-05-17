@@ -5,6 +5,9 @@ date: 2018-05-17 13:34 +0000
 tags: design, strategy
 category: strategy
 author_id: mynameisgino
+banner: true
+featured: true
+image: http://res.cloudinary.com/dmow1tay1/image/upload/c_scale,w_2000/v1526566654/rawpixel-574844-unsplash_xj1sry.jpg
 ---
 
 At kohactive, we have long placed a heavy emphasis on design thinking to build the products for the many brands and companies that place their trust in us. For those unfamiliar, what we mean by design thinking is utilizing strategies that take actual user data (problems, feedback, reviews, etc.) into account early in the product production process. There are many variants of design thinking, but ours can be summed up by:
