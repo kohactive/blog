@@ -8,17 +8,19 @@ author_id: johnkoht
 featured: true
 ---
 
-Over the past decade, we've been busy helping companies build great products through our human-centered approach to design and development. We've worked with some amazing clients, from small startups to non-profits to enterprise companies. On our 10th birthday, we've decided to reinvent our brand to better represent who we are and what we do. We really love our new logo and we're excited to introduce it to the world.
+Over the past decade, we've helped companies build great products through our human-centered approach to design and development. We've worked with some amazing clients, from small startups to non-profits to enterprise companies. We're proud of the work we've created and people we've worked with.
+
+As this year marks the 10th birthday of kohactive, we've we've decided to reinvent our brand to better represent who we are and what we do. We really love our new logo and we're excited to share with you.
 
 <!-- LOGO Overview image -->
 
 ### First, a little backgound
 
-kohactive is a software design and development consultancy. We partner with companies of all sizes to build web and mobile products. The very foundation of the company is to **cooperate** and **collaboration** with our clients. The "koh" in "kohactive" isn't about my last name as much as it is about how we work with and empower our clients--that's why the original logo emphazies the "koh" in a purple and "active" in a dark gray.
+kohactive is a software design and development consultancy. We partner with companies of all sizes to build web and mobile products. The very foundation of the company is to **cooperate** and **collaborate** with our clients. The "koh" in "kohactive" isn't about my last name as much as it is about how we work with and empower our clients--that's why the original logo emphazies the "koh" in a purple and "active" in a dark gray.
 
 ### Looking Forward
 
-As we began to redesign our brand, we looked at how we can best symbolize this sense of collaboration and cooperation. The new mark represents this through the two layers of the "K". The top layer, distinct and bright, represents the client while the bottom layer, darker and complentary, represents kohactive.
+As we began to redesign our brand, we looked at how we can best symbolize this sense of collaboration and cooperation. The new mark represents this through the two layers of the "K". The top layer, distinct and bright, represents the client while the bottom layer, darker and complimentary, represents kohactive.
 
 We also believe that the new mark symbolizes the products we build, our strategy and innovation services create two primary components of our products: the design and the technology. The top layer of our mark represents the design, the interfaces, and the graphical components of the products we build while the bottom layer represents the technology that lays behind the scenes and powers our products.
 
